@@ -56,6 +56,10 @@ body {
     margin-bottom: 1rem;
 }
 
+.gap {
+    padding-right: 10px;
+}
+
 .icon:hover {
     color: #ff4c68;
 }
